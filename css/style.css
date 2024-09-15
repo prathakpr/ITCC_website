@@ -148,7 +148,7 @@ blockquote {
 	z-index: 2;
 }
 .subfooter {
-	background-color: #DA095F;
+	background-color: #212728;
 	padding: 40px 0;
 }
 .subfooter a {
@@ -170,7 +170,7 @@ color: #FF89BA;
 }
 .btn-primary {
 color: #fff;
-background-color: #BD0451;
+background-color: #ffc800;
 border:0px;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
@@ -433,8 +433,8 @@ text-align:center;
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus,
 .nav-pills > li > a:hover {
-	background-color: #DB0A61;
-	border-color: #DB0A61;
+	background-color: #ffbf00;
+	border-color: #ffbf00;
 	color: #ffffff;
 }
 .nav-pills > li > a {
@@ -474,8 +474,22 @@ padding: 10px 0;
 	-moz-border-radius: 0px;
 	border-radius: 0px;
 }
+
+.modal-content {
+    position: relative;
+    background-color: #1a1919;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #999;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 6px;
+    outline: 0;
+    -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+    box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+}
+
 .modal-header {
-	background-color: #626262;
+	background-color: #f0ca09;
 	color: #ffffff;
 }
 .modal-header h4 {
@@ -818,7 +832,7 @@ border-radius: 50%;
 }
 .isotope-item .btn-default {
 	color: #FFFFFF;
-	background: rgba(219, 10, 97, 0.69);
+	background: rgba(255, 166, 0, 0.69);
 	margin-top: -36px;
 	z-index: 2;
 	position: relative;
@@ -847,7 +861,7 @@ border-radius: 50%;
 	bottom: -1px;
 	left: 0;
 	right: -1px;
-	background-color: rgba(219, 10, 97, 0.78);
+	background-color: rgba(255, 174, 0, 0.432);
 	cursor: pointer;
 	overflow: hidden;
 	opacity: 0;

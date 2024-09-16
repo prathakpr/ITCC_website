@@ -4,6 +4,12 @@
  */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,400,700);
 @import url(http://fonts.googleapis.com/css?family=Raleway:700,400,300);
+
+p {
+    margin: 0 0 10px;
+	text-align: justify;
+}
+
 body {
 	font-family: 'Open Sans', sans-serif;
 }
@@ -393,8 +399,8 @@ text-align:center;
 	padding: 12px 35px 12px 15px;
 	display: inline-block;
 	width: 100%;
-	background-color: #3b1919;
-	color: #DB0A61;
+	background-color: #0f1d25;
+	color: #e2d10f;
 	position: relative;
 	text-decoration: none;
 	border: #e2d10f 1px solid;

@@ -9,6 +9,13 @@ p {
     margin: 0 0 10px;
 	text-align: justify;
 }
+.bio{
+	text-align: center;
+}
+.panel-title-price{
+	color: #01185d;
+	font-size: large;
+}
 
 li.list-group-item{
 	color: #000000;
